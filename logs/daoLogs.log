@@ -1,0 +1,10 @@
+[INFO ] 2024-02-11 11:21:36.946 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-11 12:11:22.629 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-11 12:20:46.172 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-12 15:19:53.851 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-12 15:20:43.451 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-12 15:21:05.541 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-12 15:38:57.989 [main] UserDaoImpl - Getting user with user_id: 1
+[INFO ] 2024-02-12 15:38:58.471 [main] OrdersDaoImpl - Getting all orders
+[INFO ] 2024-02-12 15:42:34.690 [main] UserDaoImpl - Getting user with user_id: 1
+[INFO ] 2024-02-12 15:42:35.050 [main] OrdersDaoImpl - Getting all orders
